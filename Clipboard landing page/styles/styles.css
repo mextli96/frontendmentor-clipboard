@@ -1,0 +1,257 @@
+body {
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-size: 18px;
+  margin:0;
+  text-align: center;
+}
+.blacklists {
+  margin: 30px auto 40px auto;
+}
+.plaintext {
+  margin: 38px auto 40px auto;
+}
+.sneakpreview {
+  margin: 38px auto 40px auto;
+}
+.clipboard-p1 {
+  margin: 0 auto 50px auto ;
+  width: 50%;
+}
+.clipboard-p2 {
+  margin: 0 auto 80px auto;
+  width: 55%;
+}
+.div4-p {
+  margin: 0 auto 80px auto;
+  width:55%;
+}
+.div6  {
+  margin: 200px auto 200px auto;
+}
+.div7-p {
+  margin: 0 auto 60px auto;
+  width:55%;
+}
+.div8 {
+  background-color: blue;
+  background-color: hsl(201, 11%, 96%);
+  height: 150px;
+  margin: 50px auto 0 auto;
+position: relative;
+}
+.div8-link1 {
+  color:blue;
+  color: hsl(210, 10%, 33%);
+  left: 250px;
+  position: absolute;
+  text-decoration: none;
+  top: 45px;
+}
+.div8-link1:hover {
+  color:blue;
+  color:hsl(171, 66%, 44%);
+}
+.div8-link2 {
+  color:blue;
+  color: hsl(210, 10%, 33%);
+  left: 250px;
+  position: absolute;
+  text-decoration: none;
+  top:85px;
+}
+.div8-link2:hover {
+  color:blue;
+  color:hsl(171, 66%, 44%);
+}
+.div8-link3 {
+  color:blue;
+  color: hsl(210, 10%, 33%);
+  left: 450px;
+  position: absolute;
+  text-decoration: none;
+  top: 45px;
+
+}
+.div8-link3:hover {
+  color:blue;
+  color:hsl(171, 66%, 44%);
+}
+.div8-link4 {
+  color:blue;
+  color: hsl(210, 10%, 33%);
+  left: 650px;
+  position: absolute;
+  text-decoration: none;
+  top: 45px;
+
+}
+.div8-link4:hover {
+  color:blue;
+  color:hsl(171, 66%, 44%);
+}
+.div8-link5 {
+  color:blue;
+  color: hsl(210, 10%, 33%);
+  position: absolute;
+  text-decoration: none;
+  top: 45px;
+
+}
+.div8-link50:hover {
+  color:blue;
+  color:hsl(171, 66%, 44%);
+}
+.div8-link6 {
+  color:blue;
+  color: hsl(210, 10%, 33%);
+  left: 450px;
+  position: absolute;
+  text-decoration: none;
+  top:85px;
+}
+.div8-link6:hover {
+  color:blue;
+  color:hsl(171, 66%, 44%);
+}
+.div8-logo {
+  float: left;
+  height: 50px;
+  left: 130px;
+  position: absolute;
+  top: 50px;
+  width: 50px;
+}
+.div8-facebook {
+  left: 1000px;
+  position: absolute;
+top: 63px;
+}
+.div8-facebook:hover {
+  color:blue;
+  color:hsl(171, 66%, 44%);
+}
+.div8-twitter {
+  left: 1050px;
+  position: absolute;
+  top: 63px;
+}
+.div8-twitter:hover {
+  color:blue;
+  color:hsl(171, 66%, 44%);
+}
+.div8-instagram {
+  left: 1100px;
+  position: absolute;
+  top: 63px;
+}
+.div8-instagram:hover {
+  color:blue;
+  color:hsl(171, 66%, 44%);
+}
+.footer-link {
+  color:blue;
+  color: hsl(210, 10%, 33%);
+  text-decoration: none;
+}
+.div5-1 {
+  display: inline-block;
+  margin:0;
+  vertical-align:top;
+  width: 30%;
+}
+.div5-2 {
+  display: inline-block;
+  margin:0 10px 0 10px;
+  padding:0;
+  vertical-align: top;
+  width:32%;
+
+}
+.div5-3 {
+  display: inline-block;
+  margin:0;
+  vertical-align: top;
+  width: 32%;
+}
+.computer-img {
+  float: left;
+  margin: 0 50px 0 auto;
+}
+h1 {
+  bottom: 0;
+  color:blue;
+  color:hsl(210, 10%, 33%);
+  left: 0;
+  margin: 0 auto 0 auto;
+  padding:0;
+  position: absolute;
+  right: 0;
+  top: 220px;
+
+}
+h2 {
+  color:blue;
+  color: hsl(210, 10%, 33%);
+}
+h3 {
+  color:blue;
+  color:hsl(210, 10%, 33%);
+}
+p {
+  color:blue;
+  color: hsl(201, 11%, 66%);
+}
+.div1 {
+  left: 0;
+    margin:0 auto 130px auto;
+  position: relative;
+  top: 0;
+}
+.div3 {
+    margin: 0 auto 250px auto;
+  text-align: left;
+
+}
+.header-img {
+  left: 0;
+  margin:0;
+  position: relative;
+  top: 0;
+
+  width: 100%;
+}
+.logo-header {
+  left: 0;
+  margin:auto;
+  position: absolute;
+  right: 0;
+  top: 100px;
+  width: 100px;
+
+}
+.iOS-button {
+  background-color: cyan;
+  background-color: hsl(171, 66%, 44%);
+  border-radius: 30px;
+  color:white;
+  margin-right: 10px;
+  padding:10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+.Mac-button {
+  background-color: blue;
+  background-color: hsl(233, 100%, 69%);
+  border-radius: 30px;
+  color:white;
+  padding:10px 20px 10px 20px;
+  text-decoration: none;
+}.quicksearch {
+  padding-top: 80px;
+}
+.icloud {
+  margin: 60px auto 0 auto;
+}
+.completehistory {
+  margin: 60px auto 0 auto;
+}
